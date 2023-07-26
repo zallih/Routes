@@ -1,0 +1,37 @@
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #444;
+    padding: 10px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 1.2em;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+section {
+    padding: 30px;
+}
+.about-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+}
+.about-content h2 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 10px;
+}
+.about-content p {
+    color: #666;
+    font-size: 1.2em;
+    line-height: 1.6;
+}
